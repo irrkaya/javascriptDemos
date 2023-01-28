@@ -1,0 +1,32 @@
+header {
+    color: brown;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 30px;
+}
+
+nav {
+    background-color: blue;
+}
+
+article {
+    background-color: bisque;
+}
+
+form,
+label,
+input {
+    border: 1px solid black;
+}
+
+form {
+    padding: 10px;
+    margin: 10px;
+}
+
+label:hover {
+    background-color: gray;
+}
+input:hover {
+    background-color: rgb(212, 206, 206)
+}
