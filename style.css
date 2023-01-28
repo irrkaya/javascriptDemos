@@ -27,6 +27,6 @@ form {
 label:hover {
     background-color: gray;
 }
-input:hover {
+input:focus{
     background-color: rgb(212, 206, 206)
 }
